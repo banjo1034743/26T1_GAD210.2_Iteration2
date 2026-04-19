@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b5e8b7961ac50a49b5c6a93d01b7945, type: 3}
+  m_Name: Inpup
+  m_EditorClassIdentifier: 
+  _packageCreatureName: Inpup
+  _packageCreatureDescription: Inpups are the perfect companion for most occasions.
+    Their adaptability with any tools with the outlet on their snout allows them
+    to help out with most tasks.
+  _packageCreaturePersonality: Inpups are playful creatures. You can usually find
+    them sticking something into their outlet snouts and playing around with it.
+  _packageCreatureWeight: 10
+  _packageCreatureLength: 40
+  _packageCreatureAbilityName: Adaptability
+  _packageCreatureAbilityDescription: Using the plug on the end of its snout, Inpup
+    can use most tools to perform actions with them.
+  _packageCreatureDisplayImage: {fileID: 21300000, guid: 3a8b9b00c0389b94ebe7409fccebbd11, type: 3}

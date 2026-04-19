@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 5585481c3fe9c04429111b66d37d25ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9209463754685661478
+    second: GAD210P2Iteration1WinnerOverlay_0
+  - first:
+      213: 673071248571552041
+    second: GAD210P2Iteration1WinnerOverlay_1
+  - first:
+      213: 8997633334618301063
+    second: GAD210P2Iteration1WinnerOverlay_2
+  - first:
+      213: 3260554920181485004
+    second: GAD210P2Iteration1WinnerOverlay_3
+  - first:
+      213: 5073804721266913947
+    second: GAD210P2Iteration1WinnerOverlay_4
+  - first:
+      213: 5210164917499175535
+    second: GAD210P2Iteration1WinnerOverlay_5
+  - first:
+      213: -6224099647842023034
+    second: GAD210P2Iteration1WinnerOverlay_6
+  - first:
+      213: -6018588941935023100
+    second: GAD210P2Iteration1WinnerOverlay_7
+  - first:
+      213: 3234812419239453709
+    second: GAD210P2Iteration1WinnerOverlay_8
+  - first:
+      213: -5087646648781040787
+    second: GAD210P2Iteration1WinnerOverlay_9
+  - first:
+      213: 5827486027148651421
+    second: GAD210P2Iteration1WinnerOverlay_10
+  - first:
+      213: -3577487591920434018
+    second: GAD210P2Iteration1WinnerOverlay_11
+  - first:
+      213: -4079392178220019826
+    second: GAD210P2Iteration1WinnerOverlay_12
+  - first:
+      213: -5774922724527713002
+    second: GAD210P2Iteration1WinnerOverlay_13
+  - first:
+      213: 1510685784226525930
+    second: GAD210P2Iteration1WinnerOverlay_14
+  - first:
+      213: -42936006683345190
+    second: GAD210P2Iteration1WinnerOverlay_15
+  - first:
+      213: 215814393546488863
+    second: GAD210P2Iteration1WinnerOverlay_16
+  - first:
+      213: 8124295387332441374
+    second: GAD210P2Iteration1WinnerOverlay_17
+  - first:
+      213: -4134800804971309620
+    second: GAD210P2Iteration1WinnerOverlay_18
+  - first:
+      213: -7845487321711258171
+    second: GAD210P2Iteration1WinnerOverlay_19
+  - first:
+      213: -7257569572969469074
+    second: GAD210P2Iteration1WinnerOverlay_20
+  - first:
+      213: 6134491556501181502
+    second: GAD210P2Iteration1WinnerOverlay_21
+  - first:
+      213: 1616923081411243538
+    second: GAD210P2Iteration1WinnerOverlay_22
+  - first:
+      213: 2847586400633085461
+    second: GAD210P2Iteration1WinnerOverlay_23
+  - first:
+      213: -1595711978818476353
+    second: GAD210P2Iteration1WinnerOverlay_24
+  - first:
+      213: -2404197415506778990
+    second: GAD210P2Iteration1WinnerOverlay_25
+  - first:
+      213: 4797104717519124592
+    second: GAD210P2Iteration1WinnerOverlay_26
+  - first:
+      213: -865625944509961106
+    second: GAD210P2Iteration1WinnerOverlay_27
+  - first:
+      213: 6507467051256976424
+    second: GAD210P2Iteration1WinnerOverlay_28
+  - first:
+      213: 4291784119983194562
+    second: GAD210P2Iteration1WinnerOverlay_29
+  - first:
+      213: -2069673951605194474
+    second: GAD210P2Iteration1WinnerOverlay_30
+  - first:
+      213: 2284063170859576471
+    second: GAD210P2Iteration1WinnerOverlay_31
+  - first:
+      213: -8272416385364839214
+    second: GAD210P2Iteration1WinnerOverlay_32
+  - first:
+      213: -776737085359898281
+    second: GAD210P2Iteration1WinnerOverlay_33
+  - first:
+      213: 4579682794662466941
+    second: GAD210P2Iteration1WinnerOverlay_34
+  - first:
+      213: -5422236737638697451
+    second: GAD210P2Iteration1WinnerOverlay_35
+  - first:
+      213: -7807067359974737444
+    second: GAD210P2Iteration1WinnerOverlay_36
+  - first:
+      213: 255758336757408758
+    second: GAD210P2Iteration1WinnerOverlay_37
+  - first:
+      213: 989965433070982432
+    second: GAD210P2Iteration1WinnerOverlay_38
+  - first:
+      213: -519350314008665425
+    second: GAD210P2Iteration1WinnerOverlay_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 512
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade302a4289613080800000000000000
+      internalID: -9209463754685661478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 287
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921d2a70cba375900800000000000000
+      internalID: 673071248571552041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 296
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7822329a8d30edc70800000000000000
+      internalID: 8997633334618301063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 313
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdc11cbc61df3d20800000000000000
+      internalID: 3260554920181485004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 264
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9270d60386c96640800000000000000
+      internalID: 5073804721266913947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 276
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62adb843693e4840800000000000000
+      internalID: 5210164917499175535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 274
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6890eb3d85e8f99a0800000000000000
+      internalID: -6224099647842023034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 245
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c6ed2ce3da97ca0800000000000000
+      internalID: -6018588941935023100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 245
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d042acba1cc54ec20800000000000000
+      internalID: 3234812419239453709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 233
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6313b4145c0569b0800000000000000
+      internalID: -5087646648781040787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 254
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b6fb59aa36fd050800000000000000
+      internalID: 5827486027148651421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 229
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94073f4df53a5ec0800000000000000
+      internalID: -3577487591920434018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 186
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f40bd6d661367c0800000000000000
+      internalID: -4079392178220019826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 199
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615d13ff06a5bdfa0800000000000000
+      internalID: -5774922724527713002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 214
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2fd0087b807f410800000000000000
+      internalID: 1510685784226525930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 232
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeb09dede5776ff0800000000000000
+      internalID: -42936006683345190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 147
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c31c82c0abef200800000000000000
+      internalID: 215814393546488863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 183
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e157b444c9b4fb070800000000000000
+      internalID: 8124295387332441374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 138
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc59fa2339c3e96c0800000000000000
+      internalID: -4134800804971309620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 157
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5d19b19da3f1390800000000000000
+      internalID: -7845487321711258171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 191
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ba876fceee74b90800000000000000
+      internalID: -7257569572969469074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 163
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34d2e69197122550800000000000000
+      internalID: 6134491556501181502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 119
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ea5a8c9f6707610800000000000000
+      internalID: 1616923081411243538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_23
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 191
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ed7f48eb8a48720800000000000000
+      internalID: 2847586400633085461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb660b2e864ead9e0800000000000000
+      internalID: -1595711978818476353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 118
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2946ec6403392aed0800000000000000
+      internalID: -2404197415506778990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 76
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078f31e035db29240800000000000000
+      internalID: 4797104717519124592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 115
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c2f1d2acdacf3f0800000000000000
+      internalID: -865625944509961106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 138
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8241bb91eca2f4a50800000000000000
+      internalID: 6507467051256976424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_29
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 116
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1c2441bea7f8b30800000000000000
+      internalID: 4291784119983194562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_30
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 141
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61181b1b18a0743e0800000000000000
+      internalID: -2069673951605194474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 131
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c23a73a5f92bf10800000000000000
+      internalID: 2284063170859576471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 67
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4353c6029723d80800000000000000
+      internalID: -8272416385364839214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 91
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75140477cb97835f0800000000000000
+      internalID: -776737085359898281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7513dfcc3d4e8f30800000000000000
+      internalID: 4579682794662466941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 44
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516f8f45a6850c4b0800000000000000
+      internalID: -5422236737638697451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 48
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9b8278999b7a390800000000000000
+      internalID: -7807067359974737444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_37
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 56
+        width: 57
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f325ca2ad2ac8300800000000000000
+      internalID: 255758336757408758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_38
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 4
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0259c1af0501dbd00800000000000000
+      internalID: 989965433070982432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAD210P2Iteration1WinnerOverlay_39
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 16
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2a68b14a5eac8f0800000000000000
+      internalID: -519350314008665425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GAD210P2Iteration1WinnerOverlay_0: -9209463754685661478
+      GAD210P2Iteration1WinnerOverlay_1: 673071248571552041
+      GAD210P2Iteration1WinnerOverlay_10: 5827486027148651421
+      GAD210P2Iteration1WinnerOverlay_11: -3577487591920434018
+      GAD210P2Iteration1WinnerOverlay_12: -4079392178220019826
+      GAD210P2Iteration1WinnerOverlay_13: -5774922724527713002
+      GAD210P2Iteration1WinnerOverlay_14: 1510685784226525930
+      GAD210P2Iteration1WinnerOverlay_15: -42936006683345190
+      GAD210P2Iteration1WinnerOverlay_16: 215814393546488863
+      GAD210P2Iteration1WinnerOverlay_17: 8124295387332441374
+      GAD210P2Iteration1WinnerOverlay_18: -4134800804971309620
+      GAD210P2Iteration1WinnerOverlay_19: -7845487321711258171
+      GAD210P2Iteration1WinnerOverlay_2: 8997633334618301063
+      GAD210P2Iteration1WinnerOverlay_20: -7257569572969469074
+      GAD210P2Iteration1WinnerOverlay_21: 6134491556501181502
+      GAD210P2Iteration1WinnerOverlay_22: 1616923081411243538
+      GAD210P2Iteration1WinnerOverlay_23: 2847586400633085461
+      GAD210P2Iteration1WinnerOverlay_24: -1595711978818476353
+      GAD210P2Iteration1WinnerOverlay_25: -2404197415506778990
+      GAD210P2Iteration1WinnerOverlay_26: 4797104717519124592
+      GAD210P2Iteration1WinnerOverlay_27: -865625944509961106
+      GAD210P2Iteration1WinnerOverlay_28: 6507467051256976424
+      GAD210P2Iteration1WinnerOverlay_29: 4291784119983194562
+      GAD210P2Iteration1WinnerOverlay_3: 3260554920181485004
+      GAD210P2Iteration1WinnerOverlay_30: -2069673951605194474
+      GAD210P2Iteration1WinnerOverlay_31: 2284063170859576471
+      GAD210P2Iteration1WinnerOverlay_32: -8272416385364839214
+      GAD210P2Iteration1WinnerOverlay_33: -776737085359898281
+      GAD210P2Iteration1WinnerOverlay_34: 4579682794662466941
+      GAD210P2Iteration1WinnerOverlay_35: -5422236737638697451
+      GAD210P2Iteration1WinnerOverlay_36: -7807067359974737444
+      GAD210P2Iteration1WinnerOverlay_37: 255758336757408758
+      GAD210P2Iteration1WinnerOverlay_38: 989965433070982432
+      GAD210P2Iteration1WinnerOverlay_39: -519350314008665425
+      GAD210P2Iteration1WinnerOverlay_4: 5073804721266913947
+      GAD210P2Iteration1WinnerOverlay_5: 5210164917499175535
+      GAD210P2Iteration1WinnerOverlay_6: -6224099647842023034
+      GAD210P2Iteration1WinnerOverlay_7: -6018588941935023100
+      GAD210P2Iteration1WinnerOverlay_8: 3234812419239453709
+      GAD210P2Iteration1WinnerOverlay_9: -5087646648781040787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
