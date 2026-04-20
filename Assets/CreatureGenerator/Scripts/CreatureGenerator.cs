@@ -16,18 +16,6 @@ namespace GAD210.P2.Iteration1.PackageCreatures
         // Scriptable objs here
         [SerializeField] private List<PackageCreature> _packageCreatureList = new List<PackageCreature>();
 
-        #region Package Creature Const Int Values
-
-        private const int Inpup = 0;
-
-        [Header("Scripts")]
-
-        [Space(5)]
-
-        [SerializeField] private PlayerMenuManager _playerMenuManager;
-
-        #endregion
-
         [Header("Creature Data Text Fields")]
 
         [Space(5)]
@@ -58,40 +46,9 @@ namespace GAD210.P2.Iteration1.PackageCreatures
 
         [SerializeField] private Image _creatureDisplayImage;
 
-        //[Header("Package Data Text Fields")]
-
-        //[SerializeField] private TextMeshProUGUI _packageNameTextField;
-
-        //[SerializeField] private TextMeshProUGUI _authorNameTextField;
-
-        //[SerializeField] private TextMeshProUGUI _publishedDateTextField;
-
-        //[SerializeField] private TextMeshProUGUI _categoryTextField;
-
         #endregion
 
         #region Methods
-
-        //public void CreateCreature(string packageName)
-        //{
-
-        //    //---
-        //    _authorName = authorName;
-
-        //    _packageDisplayName = packageName;
-
-        //    _datePublished = datePublished;
-
-        //    //_packageCategory = category;
-
-        //    Debug.Log("Author name = " + _authorName);
-        //    //Debug.Log("Category = " + _packageCategory);
-        //    Debug.Log("Date = " + _datePublished);
-        //    Debug.Log("Name = " + _packageDisplayName);
-
-        //    DisplayCreatureInfo();
-        //    DisplayPackageData();
-        //}
 
         public void CreateCreature(int creature)
         {

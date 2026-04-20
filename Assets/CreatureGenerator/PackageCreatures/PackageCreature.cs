@@ -49,6 +49,8 @@ public class PackageCreature : ScriptableObject
     public enum AbilityType
     {
         Adaptability = 0,
+        Manipulation = 1,
+        Scouting = 2,
     }
 
     [SerializeField] protected AbilityType _abilityType;

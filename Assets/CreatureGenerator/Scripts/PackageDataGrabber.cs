@@ -11,6 +11,10 @@ namespace GAD210.P2.Iteration1.PackageCreatures
 
         private const int Inpup = 0;
 
+        private const int Anifungus = 1;
+
+        private const int Analytikat = 2;
+
         #endregion
 
         private bool _hasGrabbedPackageData = false;
@@ -31,19 +35,21 @@ namespace GAD210.P2.Iteration1.PackageCreatures
         {
             switch (packageName)
             {
-                //case "com.unity.2d.animation":
-                //    creatureGenerator.CreateCreature("Unity Technologies", "2D Animation", 2025);
-                //    _hasGrabbedPackageData = true;
-                //    break;
-                //case "2D Animation":
-                //    _hasGrabbedPackageData = true;
-                //    break;
-                //case "com.unity.services.analytics":
-                //    creatureGenerator.CreateCreature("Unity Technologies", "Analytics", 2026);
-                //    _hasGrabbedPackageData = true;
-                //    break;
-                //case "Analytics":
-                //    break;
+                case "com.unity.2d.animation":
+                    creatureGenerator.CreateCreature(Anifungus);
+                    _hasGrabbedPackageData = true;
+                    break;
+                case "2D Animation":
+                    creatureGenerator.CreateCreature(Anifungus);
+                    _hasGrabbedPackageData = true;
+                    break;
+                case "com.unity.services.analytics":
+                    creatureGenerator.CreateCreature(Analytikat);
+                    _hasGrabbedPackageData = true;
+                    break;
+                case "Analytics":
+                    creatureGenerator.CreateCreature(Analytikat);
+                    break;
                 case "com.unity.inputsystem":
                     creatureGenerator.CreateCreature(Inpup);
                     _hasGrabbedPackageData = true;
@@ -65,11 +71,6 @@ namespace GAD210.P2.Iteration1.PackageCreatures
             }
         }
 
-        private void InitialisrVariables()
-        {
-
-        }
-
         #endregion
 
         #region Unity Methods
@@ -77,7 +78,7 @@ namespace GAD210.P2.Iteration1.PackageCreatures
         // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()
         {
-            InitialisrVariables();
+
         }
 
         #endregion

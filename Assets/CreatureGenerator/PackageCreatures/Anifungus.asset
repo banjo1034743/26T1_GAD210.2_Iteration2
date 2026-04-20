@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b5e8b7961ac50a49b5c6a93d01b7945, type: 3}
+  m_Name: Anifungus
+  m_EditorClassIdentifier: 
+  _packageCreatureName: Anifungus
+  _packageCreatureDescription: "Anifungus\u2019 are small Package Creatures which
+    are considered to be dangerous pests.They hide in places close to where people
+    and animals reside for easy prey."
+  _packageCreaturePersonality: "Anifungus\u2019 are generally manipulative as a result
+    of their natural ability. Whenever they have the option to use someone for their
+    needs, they will."
+  _packageCreatureWeight: 0.75
+  _packageCreatureLength: 7.5
+  _packageCreatureAbilityName: Manipulation
+  _packageCreatureAbilityDescription: Releasing spores from the ball on top of its
+    body, Anifungus can control the body of any living being that inhales the spores.
+  _packageCreatureDisplayImage: {fileID: 21300000, guid: 9b8de2ecfe4510b44b3bdb2c6d75fb06, type: 3}
+  _abilityType: 1
