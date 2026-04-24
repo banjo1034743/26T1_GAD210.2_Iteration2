@@ -71,6 +71,10 @@ namespace GAD210.P2.Iteration1.PackageCreatures
             // Set as player's package manager
 
             PlayerPackageCreatureManager.instance.SetPackageCreatureAsPlayers(_packageCreatureList[creature]);
+
+            PackageCreatureEnergyManager.instance.ToggleEnergyText(true);
+
+            PackageCreatureLevelManager.instance.ToggleLevelText(true);
         }
 
         public void ResetVariables()

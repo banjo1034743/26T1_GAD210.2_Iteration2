@@ -33,7 +33,7 @@ namespace GAD210.P2.Iteration1.Environment
         {
             if (CheckIfSelector(other) == true)
             {
-                if (PlayerPackageCreatureManager.instance.HasInpup == true && PlayerItemManager.instance.HasJawsOfLife == true)
+                if (PlayerPackageCreatureManager.instance.CurrentPackageCreature.PackageCreatureName == "Inpup" && PlayerItemManager.instance.HasJawsOfLife == true)
                 {
                     if (_affirmativeInteractTextIndex < _affirmativeInteractText.Count - 1)
                     {
@@ -49,7 +49,7 @@ namespace GAD210.P2.Iteration1.Environment
                         _affirmativeInteractTextIndex = 0;
                     }
                 }
-                else if (PlayerPackageCreatureManager.instance.HasInpup == false)
+                else if (PlayerPackageCreatureManager.instance.CurrentPackageCreature.PackageCreatureName != "Inpup")
                 {
                     if (_deniedInteractInpupTextIndex < _deniedInteractInpupText.Count - 1)
                     {

@@ -26,6 +26,7 @@ namespace GAD210.P2.Iteration1.DialogueSystem
 
         [SerializeField] private GameObject _textElements;
 
+        // Don't know if this will screw with anything so I'm not changing it to private
         public bool isActive;
 
         [Header("Scripts")]

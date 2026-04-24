@@ -2,6 +2,8 @@ using GAD210.P2.Iteration1.Player;
 using GAD210.P2.Iteration1.Shop;
 using UnityEngine;
 using UnityEngine.UI;
+using GAD210.P2.Iteration1.PackageCreatures;
+using GAD210.P2.Iteration2.IncidentCompletionWindow;
 
 namespace GAD210.P2.Iteration1.Microgame
 {
@@ -35,7 +37,9 @@ namespace GAD210.P2.Iteration1.Microgame
 
         [Space(5)]
 
-        [SerializeField] private CarCrashManager _carCrashManager;
+        [SerializeField] private IncidentCompletionWindow _incidentCompletionWindow;
+
+        [SerializeField] private CarCrashPoliceManager _carCrashPoliceManager;
 
         //---
 
@@ -87,8 +91,17 @@ namespace GAD210.P2.Iteration1.Microgame
         {
             if (_hasWon == true && delayBetweenWinTimer.HasExpired == true)
             {
-                _carCrashManager.EnableIncidentCompletionWindow();
+                _carCrashPoliceManager.UpdateCarCrash();
+
+                PackageCreatureLevelManager.instance.UpdateLevel(PlayerPackageCreatureManager.instance.CurrentPackageCreature, 1);
+
+                PackageCreatureEnergyManager.instance.UpdateEnergy(PlayerPackageCreatureManager.instance.CurrentPackageCreature, -1);
+
                 PlayerMoneyManager.instance.UpdateMoney(10);
+
+                _incidentCompletionWindow.EnableCompletionWindow();
+
+                _carCrashPoliceManager.InitialiseCutscene();
 
                 _jawsOfLifeUI.SetActive(false);
             }

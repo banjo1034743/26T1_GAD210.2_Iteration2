@@ -57,5 +57,25 @@ public class PackageCreature : ScriptableObject
 
     public AbilityType AbilityTypeGetter { get { return _abilityType; } }
 
+    [Space(5)]
+
+    [SerializeField] protected int _packageCreatureLevel = 1;
+    public int PackageCreatureLevel { get { return _packageCreatureLevel; } set { _packageCreatureLevel = value; } }
+
+    [Space(5)]
+
+    [SerializeField] protected int _packageCreatureEnergy = 3;
+    public int PackageCreatureEnergy { get { return _packageCreatureEnergy; } set { _packageCreatureEnergy = value; } }
+
+    #endregion
+
+    #region Unity Methods
+
+    private void OnEnable()
+    {
+        _packageCreatureLevel = 1;
+        _packageCreatureEnergy = 3;
+    }
+
     #endregion
 }

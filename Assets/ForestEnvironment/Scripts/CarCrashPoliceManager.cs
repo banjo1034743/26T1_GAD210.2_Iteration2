@@ -1,4 +1,6 @@
+using GAD210.P2.Iteration1.DialogueSystem;
 using GAD210.P2.Iteration1.Player;
+using GAD210.P2.Iteration2.IncidentCompletionWindow;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 using UnityEngine.UI;
@@ -26,12 +28,6 @@ namespace GAD210.P2.Iteration1.Microgame
         #endregion
 
         #region Variables
-
-        [Header("Stat Increase Window")]
-
-        [SerializeField] private GameObject _completionWindowParent;
-
-        [SerializeField] private Button _completionWindow;
 
         [Header("Components")]
 
@@ -62,27 +58,43 @@ namespace GAD210.P2.Iteration1.Microgame
 
         [SerializeField] private PlayerPackageCreatureManager _playerPackageCreatureManager;
 
+        [SerializeField] private IncidentCompletionWindow _incidentCompletionWindow;
+
+        [SerializeField] private TextParser _policeOfficerCutsceneTextParser;
+
         #endregion
 
         #region Methods
 
-        public void EnableIncidentCompletionWindow()
+        public void UpdateCarCrash()
         {
             _isOpened = true;
 
             _tileMapWithCarCrash.RefreshAllTiles();
+        }
 
-            _completionWindowParent.SetActive(true);
-
-            // Temportary implementation for sake of tutorial
-            _playerPackageCreatureManager.UpdateLevelText("Level: 2");
-
-            _completionWindow.Select();
+        public void InitialiseCutscene()
+        {
+            _incidentCompletionWindow.InitialisePlayingCutscene(CutsceneManager.instance.PoliceOfficerCutscene);
         }
 
         private void Initialize()
         {
             _tileMapWithCarCrash.RefreshAllTiles();
+        }
+
+        private void CheckForEndOfCutscene() 
+        {
+            if (_policeOfficerCutsceneTextParser.CurrentDialogueLine >= _policeOfficerCutsceneTextParser.AmountOfDialogueLines && _policeOfficerCutsceneTextParser.isActive == true)
+            {
+                _policeOfficerCutsceneTextParser.SetIsActiveValue(false);
+
+                PlayerFreezer.instance.CantMove = false;
+
+                PlayerFreezer.instance.CantInteract = false;
+
+                CutsceneManager.instance.PoliceOfficerCutsceneObject.SetActive(false);
+            }
         }
 
         #endregion
@@ -92,6 +104,11 @@ namespace GAD210.P2.Iteration1.Microgame
         private void Start()
         {
             Initialize();
+        }
+
+        private void Update()
+        {
+            CheckForEndOfCutscene();
         }
 
         #endregion

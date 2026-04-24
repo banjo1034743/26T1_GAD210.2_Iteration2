@@ -1,5 +1,3 @@
-using GAD210.P2.Iteration1.Microgame;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -34,18 +32,19 @@ namespace GAD210.P2.Iteration1
 
         [SerializeField] private Image _packageCreatureIcon;
 
-        [SerializeField] private TextMeshProUGUI _levelText;
-
         [Header("Package Creatures")]
 
         [Space(5)]
 
-        private PackageCreature _currentPackageCreature;
+        [SerializeField] private PackageCreature _currentPackageCreature;
+        public PackageCreature CurrentPackageCreature { get { return _currentPackageCreature; } set { _currentPackageCreature = value; }}
 
         [Header("Parameters")]
 
         [Space(5)]
 
+        // This bool was a hack from the 1st iteration. Keep uncommented but not used so no compiler errors are made in prior
+        // scripts that used it
         private bool _hasInpup;
         public bool HasInpup { get  { return _hasInpup; } }
 
@@ -61,15 +60,9 @@ namespace GAD210.P2.Iteration1
             _packageCreatureIcon.gameObject.SetActive(true);
 
             _currentPackageCreature = packageCreature;
-            _levelText.gameObject.SetActive(true);
 
             // Specifically doing Inpup here for sake of prototype. Would be set to specitc package creature normally
-            _hasInpup = true;
-        }
-
-        public void UpdateLevelText(string updatedText)
-        {
-            _levelText.text = updatedText;
+            //_hasInpup = true;
         }
 
         private void InitialiseVariables()

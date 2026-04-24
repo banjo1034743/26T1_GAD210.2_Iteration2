@@ -74,8 +74,8 @@ namespace GAD210.P2.Iteration1.Microgame
 
             _completionWindowParent.SetActive(true);
 
-            // Temportary implementation for sake of tutorial
-            _playerPackageCreatureManager.UpdateLevelText("Level: 2");
+            //// Temportary implementation for sake of tutorial
+            //_playerPackageCreatureManager.UpdateLevelText("Level: 2");
 
             _completionWindow.Select();
         }
