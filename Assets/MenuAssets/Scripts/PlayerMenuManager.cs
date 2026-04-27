@@ -71,10 +71,10 @@ public class PlayerMenuManager : MonoBehaviour
         _confirmButton.Select();
     }
 
-    public void DisableCreatureGeneratorButton()
+    // Called when pressing the Package Creature Generator Button in the menu
+    public void CheckToUseCreatureGeneratorButton()
     {
-        // TODO: Need to change selected button to something esle after this is disabled
-        _generatePackageCreatureButton.gameObject.SetActive(false);
+        
     }
 
     private void OpenMenu()

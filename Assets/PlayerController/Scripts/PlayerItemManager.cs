@@ -37,8 +37,10 @@ namespace GAD210.P2.Iteration1.Player
         [Space(5)]
 
         [SerializeField] private bool _hasJawsOfLife = false;
-
         public bool HasJawsOfLife { get {  return _hasJawsOfLife; } set { _hasJawsOfLife = value; } }
+
+        [SerializeField] private bool _hasPackageCreatureGenerator = false;
+        public bool HasPackageCreatureGenerator { get { return _hasPackageCreatureGenerator; } set {  _hasPackageCreatureGenerator = value; } }
 
         #endregion
 

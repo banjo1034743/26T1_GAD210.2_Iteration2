@@ -94,12 +94,21 @@ namespace GAD210.P2.Iteration1.Shop
                     else
                     {
                         DisplayInsuffecientFundsWindow();
+                        EnvironmentSoundPlayer.instance.PlaySFXClipAt("Failure", _insuffecientFundsWindow.transform.position, 1, false);
                     }
                     break;
                 case "PackageCreatureGenerator":
                     if (QueryAllowablePurchase(2) == true)
                     {
-                        Debug.Log("What- How did you get that much money? Oh my goodness the prototypes broken now oh no oh god");
+                        PlayerMoneyManager.instance.UpdateMoney(-_purchaseableItems[2].ItemPrice); // - to subtract from player money
+
+                        PlayerItemManager.instance.HasPackageCreatureGenerator = true;
+
+                        PlayerItemManager.instance.DisplayItemIcon(_purchaseableItems[2].ItemSprite);
+
+                        DisplaySucessfulPurchaseWindow();
+
+                        EnvironmentSoundPlayer.instance.PlaySFXClipAt("Money", _sucessfulPurchaseWindow.transform.position, 1, false);
                     }
                     else
                     {
